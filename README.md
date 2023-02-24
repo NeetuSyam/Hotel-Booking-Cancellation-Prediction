@@ -1,7 +1,8 @@
 ### Hotel-Booking-Cancellation-Prediction
-**_ Libraries used Packages used:**_ *TensorFlow, Pandas, Numpy, Scikit- Learn*
+**Libraries used Packages used:** *TensorFlow, Pandas, Numpy, Scikit- Learn*
+<sub>
 This is a machine learning project to predict the cancellation of hotel bookings using several classification algorithms such as **Logistic Regression, K-Nearest Neighbors (KNN), Random Forest Classifier, Ada Boost Classifier, Gradient Boosting Classifier, XGBoost, Cat Boost, Extra Trees Classifier, LGBM, Voting Classifier and Artificial Neural Network (ANN)**. The dataset used for this project is publicly available on [kaggle] (https://www.kaggle.com/datasets/vinayakashastri/hotel-booking-cancellation-dataset).
-
+</sub>
 ## Problem Statement
 Hotel cancellations can be done via their hotel website, app, or by giving them a call. Hotels use strict cancellation policies and overbooking techniques to 
 lessen the impact of cancellations, however these strategies can have a detrimental effect on income and the hotel's reputation. A machine learning-based system prototype was created to lessen this impact. Machine learning models can learn about the new patterns and predict hotel booking cancellations. Classification models are trained using data from the hotel's property management system on a day-to-day basis to determine which reservations are "likely to cancel" 
