@@ -14,4 +14,4 @@ and as a result, to determine net demand.
  In comparison to previous models, the CatBoost model initially offered a better F1 score of 99.5%. As a result, here Optuna is choosed to use to implement hyperparameter adjustment for the CatBoost model. A software framework called Optuna is used to automate the optimization of these hyperparameters. Through trial and error, it automatically identifies the ideal hyperparameter settings for great performance. Consequently, the CatBoost model gave an F1 score of 100 percent. For practical usage we deployed our model using an EC2 instance  so users (hotel managers and staff) can interact with the model by providing parameters to check if the customer's probability of cancellation is high or low. 
 
 ### The results obtained are mentioned below
-![alt text]([https](https://github.com/NeetuSyam/HotelBookingCancellationPrediction/blob/HotelImages/Hotel4.jpg?raw=true))
+![HotelImages](Hotel4.jpg)
